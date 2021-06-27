@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/minecraft-helper/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/minecraft-helper/static/js/main.b47d1cc2.chunk.js",
+    "main.js.map": "/minecraft-helper/static/js/main.b47d1cc2.chunk.js.map",
+    "runtime-main.js": "/minecraft-helper/static/js/runtime-main.1d338bb7.js",
+    "runtime-main.js.map": "/minecraft-helper/static/js/runtime-main.1d338bb7.js.map",
+    "static/js/2.4a7b5bd9.chunk.js": "/minecraft-helper/static/js/2.4a7b5bd9.chunk.js",
+    "static/js/2.4a7b5bd9.chunk.js.map": "/minecraft-helper/static/js/2.4a7b5bd9.chunk.js.map",
+    "static/js/3.0323c783.chunk.js": "/minecraft-helper/static/js/3.0323c783.chunk.js",
+    "static/js/3.0323c783.chunk.js.map": "/minecraft-helper/static/js/3.0323c783.chunk.js.map",
+    "index.html": "/minecraft-helper/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/minecraft-helper/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.4a7b5bd9.chunk.js.LICENSE.txt": "/minecraft-helper/static/js/2.4a7b5bd9.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/minecraft-helper/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1d338bb7.js",
+    "static/js/2.4a7b5bd9.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.b47d1cc2.chunk.js"
+  ]
+}
