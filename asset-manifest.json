@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/minecraft-helper/static/css/main.ea338338.chunk.css",
+    "main.css": "/minecraft-helper/static/css/main.5b3de950.chunk.css",
     "main.js": "/minecraft-helper/static/js/main.1021688a.chunk.js",
     "main.js.map": "/minecraft-helper/static/js/main.1021688a.chunk.js.map",
     "runtime-main.js": "/minecraft-helper/static/js/runtime-main.419d999b.js",
@@ -10,13 +10,13 @@
     "static/js/3.87620e11.chunk.js": "/minecraft-helper/static/js/3.87620e11.chunk.js",
     "static/js/3.87620e11.chunk.js.map": "/minecraft-helper/static/js/3.87620e11.chunk.js.map",
     "index.html": "/minecraft-helper/index.html",
-    "static/css/main.ea338338.chunk.css.map": "/minecraft-helper/static/css/main.ea338338.chunk.css.map",
+    "static/css/main.5b3de950.chunk.css.map": "/minecraft-helper/static/css/main.5b3de950.chunk.css.map",
     "static/js/2.28781947.chunk.js.LICENSE.txt": "/minecraft-helper/static/js/2.28781947.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.419d999b.js",
     "static/js/2.28781947.chunk.js",
-    "static/css/main.ea338338.chunk.css",
+    "static/css/main.5b3de950.chunk.css",
     "static/js/main.1021688a.chunk.js"
   ]
 }
